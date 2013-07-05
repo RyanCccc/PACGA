@@ -95,7 +95,6 @@ sub {
 
 img {
   width: auto\9;
-  height: auto;
   max-width: 100%;
   vertical-align: middle;
   border: 0;
@@ -728,7 +727,6 @@ h6 {
   margin: 10px 0;
   font-family: inherit;
   font-weight: bold;
-  line-height: 20px;
   color: inherit;
   text-rendering: optimizelegibility;
 }
@@ -747,7 +745,6 @@ h6 small {
 h1,
 h2,
 h3 {
-  line-height: 40px;
 }
 
 h1 {
